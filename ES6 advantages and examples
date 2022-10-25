@@ -1,0 +1,8 @@
+Give an example of an Arrow function in ES6? List down its advantages.
+answer:
+a.We may use arrow function syntax with our method associated with the array, like map(), reduce(), filter() 
+since by using arrow function syntax instead of using normal function syntax one could easily read and understand as well as write the code more effectively.
+b.If we may use arrow functions while declaring promises and callbacks then it would be much easier
+for any user to understand the concept behind them otherwise by using traditional function syntax concepts
+like callback hells, promise chaining would eventually become more difficult to 
+understand, or even writing would become a little complex.
