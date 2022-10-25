@@ -4,10 +4,10 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 <i>Note: Currenlty I am collecting the questions, after collecting the questions, I will start writing the answers also. You can contribute also in Questions and Answers. Please give some stars :star: for the inspiration.</i>
 
 ## Table of Contents
-- HTML & CSS
-- Git & GitHub
-- JavaScript DOM
-- ES6
+- [HTML & CSS](#html--css)
+- [Git & GitHub](#git--github)
+- [JavaScript DOM](#javascript-dom)
+- [ES6](#es6)
 
 ## HTML & CSS
 - What do you understand about the universal selector?
