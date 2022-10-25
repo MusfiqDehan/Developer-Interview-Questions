@@ -1,0 +1,14 @@
+What’s the difference between Git and GitHub?
+answer:
+
+DIFFERENCES ARE:
+Both of these provide an SCM (Source Code Management), thus making it easier for a developer to merge and share a code. 
+That’s pretty much the only similarity both of them have, and their overall functionalities vary a lot. There is a fundamental difference between Git and GitHub. 
+You can consider Git to be like a single computer while GitHub to be like a network of many computers interconnected to each other- all with the same goal but different roles and paths for achieving these goals.
+
+Git is basically an open-source software DVCS (distribution Version Control System) that is totally free for its users.
+It is capable of managing all the history of its source code. It means that Git can keep a record of the history of commits, allow sharing of codes by the directors, and reverse the overall changes.
+Thus, every developer must install Git on their devices for collaboration. Git acts as one of the best DevOps tools in the developer space, is widely used, and is pretty easy to understand. 
+Some of the very popular companies also use it, such as Microsoft, Facebook, and Amazon.
+On the other hand, GitHub is basically a hosting service for the Git repositories that is web-based.
+GitHub not only provides all of the DVCS SCM of Git but also comes with various additional features. It includes functionalities of collaboration, such as bug tracking, management of support tickets, project management, and many more. Developers can make use of GitHub to share their repositories, access the repositories of the other developers, and store copies (remotely) of various repositories in the form of backups.
