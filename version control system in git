@@ -1,0 +1,23 @@
+What do you understand by the term ‘Version Control System’?
+
+answer:
+
+A version control system is a software that tracks changes to a file or set of files over time so that you can recall specific versions later.
+It also allows you to work together with other programmers.
+The version control system is a collection of software tools that help a team to manage changes in a source code. 
+It uses a special kind of database to keep track of every modification to the code.
+Developers can compare earlier versions of the code with an older version to fix the mistakes.
+
+Benefits of the Version Control System
+The Version Control System is very helpful and beneficial in software development; developing software without using version control is unsafe.
+It provides backups for uncertainty. 
+Version control systems offer a speedy interface to developers. 
+It also allows software teams to preserve efficiency and agility according to the team scales to include more developers.
+
+Some key benefits of having a version control system are as follows.
+
+Complete change history of the file
+Simultaneously working
+Branching and merging
+Traceability
+
