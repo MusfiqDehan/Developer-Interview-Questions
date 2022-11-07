@@ -16,6 +16,12 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - How can you use CSS to control image repetition?
 - Are the HTML tags and elements the same thing?
 - Difference between inline, block and inline-block element. Is it possible to change an inline element into a block level element?
+- What are HTML meta tags?
+- Differentiate between a div and a span.
+- What do you understand by CSS box model?
+- How is Cell Padding different from Cell Spacing?
+- Define z-index.
+-  How do you specify units in the CSS? What are the different ways to do it?
 
 
 ## Git & GitHub
