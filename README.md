@@ -21,7 +21,11 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - What do you understand by CSS box model?
 - How is Cell Padding different from Cell Spacing?
 - Define z-index.
--  How do you specify units in the CSS? What are the different ways to do it?
+- How do you specify units in the CSS? What are the different ways to do it?
+- What are CSS Pseudo-elements and Pseudo-classes?
+- What are the different Media types in CSS?
+- What is SASS?
+- What is the difference between an ‘ID’ and a ‘Class’?
 
 
 ## Git & GitHub
@@ -39,6 +43,7 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - Explain different types of Event in javaScript
 - Difference between event.paventDefault() and event.stopPropagation()?
 
+
 ## ES6
 - What is ES6? Have you ever used anything from ES6? 
 - Explain the difference between var, let and const.
@@ -48,8 +53,3 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - What do you understand about default parameters?
 - What are template literals in ES6?
 - Tell us the difference between Arrow function and Regular function.
-
-
-
-
-
