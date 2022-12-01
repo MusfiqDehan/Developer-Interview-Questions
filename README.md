@@ -8,6 +8,7 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - [Git & GitHub](#git--github)
 - [JavaScript DOM](#javascript-dom)
 - [ES6](#es6)
+- [Python](#python)
 
 ## HTML & CSS
 - What do you understand about the universal selector?
@@ -55,3 +56,8 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - What do you understand about default parameters?
 - What are template literals in ES6?
 - Tell us the difference between Arrow function and Regular function.
+
+## Python
+- What is the difference between list and tuples in Python?
+- What are the key features of Python?
+- What type of language is python?
