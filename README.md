@@ -38,6 +38,15 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - What’s the difference between Git and GitHub?
 - Name a few Git commands with their function.
 - Difference between git fetch and git pull.
+- What is a git repository?
+- What does git clone do?
+- What does git status command do?
+- What is conflict?
+- What does the command git config do?
+- What does git add command do?
+- Define 'index'.
+- What is the functionality of git Is-tree?
+- Explain head in terms of git and also explain the number of heads that can be present in a repository.
 
 ## JavaScript DOM
 - What is DOM?
