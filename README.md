@@ -71,3 +71,4 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - What are the key features of Python?
 - What type of language is python?
 - What are different data types in Python? 
+- What is the differnce between set and dictionary in Python?
