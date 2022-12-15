@@ -8,6 +8,7 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - [Git & GitHub](#git--github)
 - [JavaScript DOM](#javascript-dom)
 - [ES6](#es6)
+- [Java](#java)
 - [Python](#python)
 
 ## HTML & CSS
@@ -65,6 +66,49 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - What do you understand about default parameters?
 - What are template literals in ES6?
 - Tell us the difference between Arrow function and Regular function.
+
+## Java
+- Why is Java Platform independent?
+- What are different datatypes in Java and what are their ranges?
+- What are some of the features of Java?
+- Differentiate between a compiler and an interpreter?
+- What are different types of Operators in Java?
+- Explain about type casting or type conversion and their types in Java?
+- Explain about String Class?
+- What are different conditional statements in Java and explain them?
+- Difference between the for loop and a while loop?
+- How do you array input from the user?
+- What are Methods in Java? 
+- Explain about parameter passing in java?
+- What is Method Overloading and Method Overriding?
+- What are Variable arguments and Command line arguments in java?
+- What is OOP and explain it's principles in java?
+- Difference between class and an object in java?
+- How to write a class in java?
+- What is Data Hiding?
+- What are constructors in java?
+- Explain about inheritance in java?
+- Difference between generalisation and specialisation in java?
+- Difference between this and super keyword in java?
+- Explain about Dynamic Method Dispatch in java?
+- What is Polymorphism? Explain it's types?
+- What is an Abstract class in java?
+- What is an interface in java?
+- What is an inner class and explain about different inner classes in java?
+- Explain about Static keyword and where can we use it?
+- Explain about final keyword in java and it's uses?
+- What is a package in java?
+- What are access modifiers in java, explain them?
+- What is are Exceptions in java and explain their types?
+- How to handle exception in java?
+- Explain about try and catch block in java?
+- Difference throw and throws in java?
+- What is Multi threading in java?
+- Explain Thread Daemon, join and yield in java?
+- What are wrapper classes?
+- Difference between String, StringBuffer and StringBuilder in java?
+- What are Lambda expressions in java?
+- What are streams and explain about different streams in java?
 
 ## Python
 - What is the difference between list and tuples in Python?
