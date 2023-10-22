@@ -117,6 +117,7 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - What type of language is python?
 - What are different data types in Python? 
 - What is the differnce between set and dictionary in Python?
+- Explain decorators in Python
 
 ## Contributors
 <a href="https://github.com/MusfiqDehan/Developer-Interview-Questions/graphs/contributors">
