@@ -42,7 +42,8 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 - What is a git repository?
 - What does git clone do?
 - What does git status command do?
-- What is conflict?
+- What is merge conflict?
+- How can you remove a merge conflict?
 - What does the command git config do?
 - What does git add command do?
 - Define 'index'.
