@@ -125,3 +125,7 @@ A Curated List of Some of the Commonly Asked Interview Questions and their Answe
 </a>
 
 <samp>Made with [contrib.rocks](https://contrib.rocks)<samp>
+
+## Repository Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/e74d9b3ac44ef6529af5d8fe130d0620cc24f960.svg "Repobeats analytics image")
